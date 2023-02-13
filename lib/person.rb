@@ -1,10 +1,10 @@
 class Person
 
-    def name=(name)
+    def name=(name)  # setter method
         @name = name
     end
 
-    def name
+    def name   # getter method
         @name
     end
 
